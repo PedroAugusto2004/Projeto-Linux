@@ -1,2 +1,2 @@
 # Projeto-Linux
-Criação e estrutura de usuários, diretórios e permissões
+Criação de estrutura de usuários, diretórios e permissões
